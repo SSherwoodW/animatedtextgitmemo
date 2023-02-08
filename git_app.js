@@ -18,4 +18,4 @@ function randomRGB() {
     for (let letter of letters) {
       letter.style.color = randomRGB();
     }
-  }, 1000);
+  }, 1050);
